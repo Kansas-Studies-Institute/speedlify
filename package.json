@@ -42,5 +42,8 @@
     "performance-leaderboard": "^4.0.0",
     "short-hash": "^1.0.0",
     "speedlify-score": "^2.0.1"
+  },
+  "volta": {
+    "node": "12.21.0"
   }
 }
