@@ -14,7 +14,7 @@ module.exports = {
   },
   urls: [
     'https://www.kansascosmos.org/',
-    'https://www.kansascosmos.org/planet/sun',
+    'https://www.kansascosmos.org/planet/sun/',
     'https://www.kansascosmos.org/kansas-stars/',
     'https://www.kansascosmos.org/sources/',
     'https://www.kansascosmos.org/project-info/',
